@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649981888398",
+    "firebase_url": "https://doctor-assistant-17a5d.firebaseio.com",
+    "project_id": "doctor-assistant-17a5d",
+    "storage_bucket": "doctor-assistant-17a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649981888398:android:50de758708a613c5f746df",
+        "android_client_info": {
+          "package_name": "com.example.smart_medicine_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649981888398-iho0dh4bf4a03rgn3mpntem605siblsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChSpag57ARnUd3k5-eZI7Zblkj5fkQau0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649981888398-iho0dh4bf4a03rgn3mpntem605siblsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
